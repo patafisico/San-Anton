@@ -5,7 +5,7 @@
   "background_color": "#000",
   "theme_color": "#000",
   "orientation": "landscape",
-  "display": "standalone",
+  "display": "fullscreen",
   "start_url": "./?utm=homescreen",
   "scope": "./",
   "lang": "es-MX",
